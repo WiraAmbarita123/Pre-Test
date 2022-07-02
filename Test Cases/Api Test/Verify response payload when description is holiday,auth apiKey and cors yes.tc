@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify response payload when description is holiday,auth apiKey and cors yes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bc3d7536-d083-431e-927a-aa8365a09711</testCaseGuid>
+</TestCaseEntity>
